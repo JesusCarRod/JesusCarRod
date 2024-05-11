@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Jesús 👋
+
+```python
+@dataclass
+class Jesus:
+  name: str = 'Jesus'
+  location: str = 'Madrid'
+  code: list = ['Python', 'R', 'MATLAB', 'SQL']
+  frameworks: list = ['NumPy', 'Pandas', 'SciPy', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'Keras']
+```
 
 <!--
 **JesusCarRod/JesusCarRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
