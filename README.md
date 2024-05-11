@@ -1,5 +1,9 @@
 ### Hi, I'm Jesús 👋
 
+#### About me 😊:
+
+My name is Jesús, I'm a Data Scientist and Mathematician. I got my BSc in Mathematics at Universidad Autónoma de Madrid, followed by a MSc in Statistics for Data Science at Universidad Carlos III de Madrid. I'm a data enthusiast and I love to solve real world problems through statistics and programming. My main interests are Machine Learning algorithms, especially Random Forests and their variations, and Applied Mathematics.
+
 #### About me in code 💻:
 ```python
 @dataclass
