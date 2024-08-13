@@ -9,7 +9,7 @@ You can visit my LinkedIn profile clicking here: <a href="https://www.linkedin.c
 </a>
 
 Or check my programming skills and contributions on Exercism: <a href="https://exercism.org/profiles/JesusCarRod" target="blank">
-  <img align="center" src="https://github.com/JesusCarRod/JesusCarRod/blob/main/exercism_logo.jpg" alt="Exercism profile of Jesus Carretero" height="28px" width="28px" />
+  <img align="center" src="https://github.com/JesusCarRod/JesusCarRod/blob/main/exercism_logo_2.jpg" alt="Exercism profile of Jesus Carretero" height="28px" width="28px" />
 </a>
 
 
