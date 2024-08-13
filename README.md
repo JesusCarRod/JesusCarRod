@@ -4,11 +4,11 @@
 
 My name is Jesús, I'm a Data Scientist and Mathematician. I got my BSc in Mathematics at Universidad Autónoma de Madrid, followed by a MSc in Statistics for Data Science at Universidad Carlos III de Madrid. I'm a data enthusiast and I love to solve real world problems through statistics and programming. My main interests are Machine Learning algorithms (especially Random Forests and their variations, and Neural Networks), Artificial Intelligence, and Applied Mathematics.
 
-You can visit my LinkedIn profile clicking here: <a href="https://www.linkedin.com/in/jesus-carretero-rodriguez/" target="blank">
+You can visit my LinkedIn profile clicking here:&nbsp; <a href="https://www.linkedin.com/in/jesus-carretero-rodriguez/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn of Jesus Carretero" height="28px" width="28px" />
 </a>
 
-Or check my programming skills and contributions on Exercism: <a href="https://exercism.org/profiles/JesusCarRod" target="blank">
+Or check my programming skills and contributions on Exercism:&nbsp; <a href="https://exercism.org/profiles/JesusCarRod" target="blank">
   <img align="center" src="https://github.com/JesusCarRod/JesusCarRod/blob/main/exercism_logo_2.jpg" alt="Exercism profile of Jesus Carretero" height="28px" width="28px" />
 </a>
 
