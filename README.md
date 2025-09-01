@@ -14,15 +14,46 @@ After completing my academic training, driven by my curiosity and love of progra
   <img align="center" src="https://github.com/JesusCarRod/JesusCarRod/blob/main/exercism_logo_2.jpg" alt="Exercism profile of Jesus Carretero" height="28px" width="28px" />
 </a>
 
-<!--
+
 ### About me in code 💻:
 
 #### Programming languages:
 
 <div align="center">
-  <img src="">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
 </div>
--->
+
+#### Frameworks:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white">
+</div>
+
+#### Data Science:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Seaborn-2E77BC?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-%23017CEE?logo=apacheairflow&logoColor=white">
+</div>
+
+#### Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-%23FF4438?logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Datadog-%23632CA6?logo=datadog&logoColor=white">
+</div>
 
 <!--```python
 @dataclass
