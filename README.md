@@ -20,18 +20,21 @@ After completing my academic training, driven by my curiosity and love of progra
 #### Programming languages:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+  
+  [![Python Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)](https://www.python.org/)
+  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&color=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![R Badge](https://img.shields.io/badge/R-%23276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+  
 </div>
 
 #### Frameworks:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white">
+  
+  [![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django)](https://www.djangoproject.com/)
+  [![Flask Badge](https://img.shields.io/badge/Flask-%233BABC3?logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
+  [![Angular Badge](https://img.shields.io/badge/Angular-%230F0F11?logo=angular)](https://angular.dev/)
 </div>
 
 #### Data Science:
